@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Coming Soon</b>
-  - [Advanced Javascript](https://github.com)
+- <b>Key Projects</b>
+  - [Higher and Lower Level Programming](https://github.com)
 
 <h2>📺 Popular Videos</h2>
 
