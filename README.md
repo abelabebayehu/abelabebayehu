@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Key Projects</b>
-  - [Higher and Lower Level Programming](https://github.com)
+  - [High and Low Level Programming](https://github.com)
 
 <h2>📺 Popular Videos</h2>
 
